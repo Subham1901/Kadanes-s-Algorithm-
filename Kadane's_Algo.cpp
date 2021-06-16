@@ -30,7 +30,7 @@ int main()
 {
     int n;
     cin >> n;
-    if (n <= 1)
+    if (n <= 0)
     {
         cout << "Invalid Size";
         return 0;
